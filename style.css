@@ -1,0 +1,18 @@
+/*style.css for index.html*/
+
+.pot {
+    height: auto;
+    width: auto;
+}
+.odd {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(68, 153, 65);
+}
+.tea {
+    font-size: 40px;
+}
+
+body {background-color: coral;}
